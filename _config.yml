@@ -29,8 +29,8 @@ projects:
     # - repo-name
 
 social_media:
-  linkedin: https://linkedin.com/in/satish-babariya/
-  twitter: https://twitter.com/ej_satyo
+  linkedin: satish-babariya
+  twitter: ej_satyo
 
 topics:
   - name: TypeScript
